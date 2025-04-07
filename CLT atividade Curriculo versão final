@@ -15,7 +15,7 @@
 
         
 
-        <!-- Links que alteram o conteúdo do iframe -->
+        <!-- conteúdo do iframe -->
         <nav style="font-size: 20px;"> 
             <a href="C:\Users\Allan\Desktop\CLT atividade Identificacao.html" target="conteudo">Identificação</a> |
             <a href="C:\Users\Allan\Desktop\CLT atividade formacao.html" target="conteudo">Formação</a> |
@@ -25,7 +25,7 @@
         </nav>
         <hr>
 
-        <!-- Janela onde as páginas serão carregadas -->
+        <!-- iframe -->
         <iframe src="C:\Users\Allan\Desktop\CLT atividade Identificacao.html" name="conteudo" width="800px" height="535px" frameborder="0"></iframe>
 
         <hr>
