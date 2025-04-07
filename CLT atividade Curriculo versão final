@@ -16,12 +16,12 @@
         
 
         <!-- conteúdo do iframe -->
-        <nav style="font-size: 20px;"> 
-            <a href="C:\Users\Allan\Desktop\CLT atividade Identificacao.html" target="conteudo">Identificação</a> |
-            <a href="C:\Users\Allan\Desktop\CLT atividade formacao.html" target="conteudo">Formação</a> |
-            <a href="C:\Users\Allan\Desktop\CLT atividade experiencia.html" target="conteudo">Experiência</a> |
-            <a href="C:\Users\Allan\Desktop\CLT atividade habilidades.html" target="conteudo">Habilidades</a> |
-            <a href="C:\Users\Allan\Desktop\CLT atividade Endereço.html" target="conteudo">Endereço</a>
+         <nav style="font-size: 20px;"> 
+            <a href="Identificacao.html" target="conteudo">Identificação</a> |
+            <a href="Formacao.html" target="conteudo">Formação</a> |
+            <a href="Experiencia.html" target="conteudo">Experiência</a> |
+            <a href="Habilidades.html" target="conteudo">Habilidades</a> |
+            <a href="Endereco.html" target="conteudo">Endereço</a>
         </nav>
         <hr>
 
