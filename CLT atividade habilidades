@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Habilidades</title>
+</head>
+<body>
+  <h2>Habilidades Técnicas</h2>
+  <ul>
+    <li>Programação: Python, C,Mysql, Javascript, HTML</li>
+    <li>Design: Figma, Canva</li>  
+  </ul>
+</body>
+</html>
