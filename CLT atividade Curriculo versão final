@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Currículo - Allan Falcão</title>
+    <link rel="shortcut icon" href="https://imgur.com/fhMV2kZ.png" type="image/x-icon">
+</head>
+
+<body>
+    <center>
+        <h1>Allan Harrison Lemos de Barros Falcão</h1>
+        <h3>(Estudante de Análise e Desenvolvimento de Sistemas)</h3>
+        <img src="https://i.imgur.com/O2mEYJc.png" alt="Allan Falcão" height="200px" style="border-radius: 70px;"><br><br>
+
+        
+
+        <!-- Links que alteram o conteúdo do iframe -->
+        <nav style="font-size: 20px;"> 
+            <a href="C:\Users\Allan\Desktop\CLT atividade Identificacao.html" target="conteudo">Identificação</a> |
+            <a href="C:\Users\Allan\Desktop\CLT atividade formacao.html" target="conteudo">Formação</a> |
+            <a href="C:\Users\Allan\Desktop\CLT atividade experiencia.html" target="conteudo">Experiência</a> |
+            <a href="C:\Users\Allan\Desktop\CLT atividade habilidades.html" target="conteudo">Habilidades</a> |
+            <a href="C:\Users\Allan\Desktop\CLT atividade Endereço.html" target="conteudo">Endereço</a>
+        </nav>
+        <hr>
+
+        <!-- Janela onde as páginas serão carregadas -->
+        <iframe src="C:\Users\Allan\Desktop\CLT atividade Identificacao.html" name="conteudo" width="800px" height="535px" frameborder="0"></iframe>
+
+        <hr>
+
+        <footer style="position: fixed; bottom: 2px; width: 100%;">
+             Copyright © 2025 Allan Falcão. Todos os Direitos Reservados.
+        </footer>
+    </center>
+</body>
+
+</html>
