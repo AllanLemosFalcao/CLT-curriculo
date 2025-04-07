@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Identificação</title>
+</head>
+<body>
+  <h2>Sobre</h2>
+  <p>
+    Olá! Atualmente estou cursando Análise e Desenvolvimento de Sistemas e sempre tive grande interesse pela área de tecnologia.  
+    <br>Estou constantemente em busca de oportunidades para me desenvolver e crescer profissionalmente nesse seguimento!<br>
+    <br>Interessado? Entre em contato pelos meios abaixo!<br>
+  </p>
+  <h3>Contato:</h3>
+  <ul>
+    <li><strong>Telefone:</strong> <a href="tel:+5581985446606">(81)98544-6606<a href="https://wa.me/5581999999999" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="30px" title="Falar no WhatsApp">
+    </a></a></li>
+    <li><strong>Email:</strong> <a href="mailto:allanlmfalcao@gmail.com">allanlmfalcao@gmail.com</a></li>
+    <li>
+      <strong>GitHub:</strong> 
+      <a href="https://github.com/AllanLemosFalcao" target="_blank">github.com/AllanLemosFalcao</a><a href="https://github.com/AllanLemosFalcao" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30px" title="Acessar GitHub">
+      </a>
+    </li>
+  </ul>
+</body>
+</html>
